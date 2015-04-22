@@ -1,0 +1,26 @@
+{
+  "name": "flummox-blog",
+  "version": "0.0.1",
+  "description": "A simple blog using express as well",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cjsx-loader": "^2.0.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.2",
+    "css-loader": "^0.11.0",
+    "exports-loader": "^0.6.2",
+    "expose-loader": "^0.6.0",
+    "imports-loader": "^0.6.3",
+    "json-loader": "^0.5.1",
+    "jsx-loader": "^0.13.1",
+    "react": "^0.13.2",
+    "react-hot-loader": "^1.2.5",
+    "webpack": "^1.8.9",
+    "webpack-dev-server": "^1.8.2"
+  }
+}
